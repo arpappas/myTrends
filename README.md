@@ -1,6 +1,6 @@
 myTrends
 ========
-
+arpappas made a change
 
 Edit        Name        Capture/View  <--- button to toggle mode
 ------------------------------------
